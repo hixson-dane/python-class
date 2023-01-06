@@ -18,6 +18,7 @@ This assignment is to prove that you have a basic understanding of the following
 - Program must print at least one word
 
 ## Prerequisits
+- Make sure you are on your local branch(`git checkout`)
 - Make sure your local branch is up-to-date( `git pull` ) and that your branch is clean (nothing staged or waiting when you run `git status` )
   - To do this you can simply run `git stash && git pull` in your command line. But make sure you are in the correct branch, and that you don't have any work that you need to save first.
 
@@ -25,3 +26,4 @@ This assignment is to prove that you have a basic understanding of the following
 Please create a Pull Request on Github into your branch. Assign Dane as a reviewer. Once Dane merges your Pull Request, you can consider the assignment as done with 100% score. If Dane leaves you a comment and requests changes, please make those changes, and push them. The Pull Request will auto-update and send a message to Dane to regrade.
 
 ## Click this link to begin
+<a href="https://gitpod.io/#github.com/hixson-dane/python-class/blob/main/01_Introduction/01_introduction_assignment.py" rel="some text">![Foo](https://camo.githubusercontent.com/76e60919474807718793857d8eb615e7a50b18b04050577e5a35c19421f260a3/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)</a>
