@@ -19,11 +19,12 @@ This is designed to help young coders through the beginning steps of text-based 
   * How to write/run a program
     * Comments
     * basic print function
+  
 * Memory management
-
   * How to create varialbes
   * Basic types of variables
   * What the `=` operator really does
+  
 * Printing data to the console
 * Basic arithmetic operators
 
