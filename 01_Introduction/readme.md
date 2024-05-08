@@ -10,9 +10,8 @@ In this lesson, you will learn the very basic skills necessary to write python c
 ---
 
 ## 1. Accessing the coding environment
-We will be using two websites during this course that will allow you to write and keep track of your code.
+We will be using one website during this course that will allow you to write and keep track of your code. Using this site will allow you to code for up to one hour per day for free.
 1. github.com
-2. gitpod.com
 
 ---
 
@@ -25,7 +24,7 @@ Github is a website that allows you to manage different versions of code that yo
 
 <a href="https://gitpod.io" rel="some text">![Gitpod Logo](https://www.gitpod.io/images/media-kit/logo-dark-theme.png)</a>
 
-Gitpod is a way to open your github repositories in a virtualized development environment in your web browser. This allows us to be working in similar environments, without having to install a bunch of things on everyone's computer first. Just Click the link in each readme or assignment, and it will open up the developer workspace and you can begin coding.
+Github codespaces are a way to open your github repositories in a virtualized development environment in your web browser. This allows us to be working in similar environments, without having to install a bunch of things on everyone's computer first. Just click the green button labeled "Code" on the front page of the repository to select or create a codespace.
 
 A few points to consider.
 - While the account is free, you are limited to how many hours per month the environment is running. At the time of writing this, you will have 50 hours per month to use in this course and work on your assignments. This means when you are not using the environment, be sure to shut it down so you don't run out of time.
